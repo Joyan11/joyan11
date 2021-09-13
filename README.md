@@ -6,17 +6,17 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
+- 🔭 I've been working on multiple **full stack projects**
 
 - 🌱 I’m currently learning **NextJS and GraphQL**
 
-- 👯 I’m actively looking for jobs
+- 👯 I’m actively looking for a job
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 How to reach me **joyanserrao@gmail.com**
 
-- ⚡ Fun fact **I love Football. Maanchester United though and through.**
+- ⚡ Fun fact **I love Football. Maanchester United fan though and through.**
 
 ## 🔭 Some of my Projects
 
@@ -31,15 +31,12 @@
 
 <p align="left"> 
 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>   
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-<!--     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg"/> </a>  -->
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-<!--     <a style="padding-right:8px;" href="https://chakra-ui.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4"/> </a> -->
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
