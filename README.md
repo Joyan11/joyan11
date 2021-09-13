@@ -8,7 +8,7 @@
 
 - 🔭 I've been working on multiple **full stack projects**
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+<!-- - 🌱 I’m currently learning **NextJS and GraphQL** -->
 
 - 👯 I’m actively looking for a job
 
