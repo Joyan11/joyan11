@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **joyanserrao@gmail.com**
 
-- ⚡ Fun fact **I love Football. Maanchester United fan though and through.**
+- ⚡ Fun fact **I love Football. Maanchester United fan through and through.**
 
 ## 🔭 Some of my Projects
 
