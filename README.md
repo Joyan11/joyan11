@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm a **full stack projects**
+- 🔭 I'm a **full stack Javascript Developer**
 
 <!-- - 🌱 I love exploring new technologies** -->
 
-- 👯 I work as a Software Engineer - 1 at **[GeekyAnts](https://geekyants.com/)**
+- 👯 I work full time as a Software Engineer at **[GeekyAnts](https://geekyants.com/)**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/joyanserrao/details/projects/)** -->
 
