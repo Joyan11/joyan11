@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **joyanserrao@gmail.com**
 
-- ⚡ Fun fact **I love Football. Maanchester United fan through and through.**
+- ⚡ Fun fact **I love Football. Manchester United fan through and through.**
 
 ## 🔭 Some of my Projects
 
@@ -30,10 +30,10 @@
 ## 🚀 Languages and Tools:
 
 ### Front End
-HTML, CSS, JavaScript, React JS, Redux, Tailwind CSS, Chakra UI
+HTML, CSS, JavaScript, React JS, Redux-saga, Redux, Tailwind CSS, Chakra UI
 
 ### Back End
-Express JS, MongoDB, Mongoose, Firebase
+Express JS, MongoDB, Mongoose,Firebase 
 
 ### Tools
 Git, Postman, Jest, Webpack
