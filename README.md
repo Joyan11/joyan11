@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm a **full stack Javascript Developer**
+<!-- - 🔭 I'm a **full stack Javascript Developer** -->
 
 <!-- - 🌱 I love exploring new technologies** -->
 
