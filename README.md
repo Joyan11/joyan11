@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-<!-- - 🔭 I'm a **full stack Javascript Developer** -->
+ - 🔭 I'm a **full stack Javascript Developer**
 
 <!-- - 🌱 I love exploring new technologies** -->
 
-- 👯 I work full time as a Software Engineer at **[GeekyAnts](https://geekyants.com/)**
+- 👯 SDE-2 at **[GeekyAnts](https://geekyants.com/)**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/joyanserrao/details/projects/)** -->
 
@@ -30,10 +30,10 @@
 ## 🚀 Languages and Tools:
 
 ### Front End
-HTML, CSS, JavaScript, React JS, Redux-saga, Redux, Tailwind CSS, Chakra UI
+JavaScript, React JS, Redux-saga, Redux, Tailwind CSS, Chakra UI, Next JS
 
 ### Back End
-Express JS, MongoDB, Mongoose,Firebase 
+NodeJS, MongoDB, Mongoose, Firebase
 
 ### Tools
 Git, Postman, Jest, Webpack
